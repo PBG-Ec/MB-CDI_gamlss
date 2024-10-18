@@ -1,2 +1,9 @@
 # MB-CDI_gamlss
 Repository for Spanish MB CDI Adaptation and Normative Data for Ecuador
+
+The ENSANUT-ECU 2018 survey study employed a nationally representative, multistage, stratified sample design. Stratification was conducted based on residence in administrative regions, provinces. In the initial sampling stage, census tracts were chosen in each province, with inclusion probabilities proportional to the number of occupied households. Within each chosen household, individuals from each target group were selected using simple random sampling.
+We utilized the child development dataset from ENSANUT-Ecu 2018 survey, which consisted of a dataset comprising 17,729 children under 5 years old. 
+
+CDI scores were measured across 3 forms for children aged 12 to 18 months, 19 to 30 and 31 to 42 months. Each CDI survey presents its own differences in terms of word choices and question formulation. Consequently, each age group will be analyzed separately and modeled by sub-populations to produce normalized quantiles.
+
+Within this population, 9,315 individuals aged between 12 and 42 months were identified as potential candidates for the application of the MB CDI survey. Upon survey review, 4652 children were retained, constituting a subset that caregivers fully responded to the 50-item reduced Spanish MB CDI inventories. Inclusion criteria encompassed individuals whose mothers communicated exclusively in Spanish with their child. Exclusion criteria were applied to individuals with health issues producing potentially cognitive impairing conditions, including identified disability (the child has a disability card issued by public authorities), stunting (height for age z-score < -2), low birth weight (a birth weight < 2500 g), and reported cases of birth asphyxia (the baby did not breathe or cry at birth).
